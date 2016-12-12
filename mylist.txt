@@ -1,0 +1,10 @@
+1.apple
+2.banana
+3.pie
+4.bubble tea
+5.cereal
+6.sandwich
+7.milk
+8.rice
+9.orange
+10.grapefruit
